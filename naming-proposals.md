@@ -4,6 +4,11 @@ This document collects approved creative names for healthy foods, organized by c
 
 ## Vegetables
 
+### Carrots & Hummus
+- **Power Sticks & Magic Dip**
+- **Crunchy Suns & Bean Clouds**
+- **Sword Sticks & Treasure Sauce**
+
 ## Fruits
 
 ## Grains & Legumes
